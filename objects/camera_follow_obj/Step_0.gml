@@ -20,20 +20,20 @@ if( !found_targets )
 	
 	found_targets = true
 }
-else
+else if( array_length_1d( targets ) > cur_target )
 {
 	var dt = get_delta_time()
 	
 	cur_move += move_speed * dt
+	
+	var new_x = lerp( targets[cur_target - 1].x,targets[cur_target].x,cur_move )
+	var new_y = lerp( targets[cur_target - 1].y,targets[cur_target].y,cur_move )
+	
+	camera_set_view_pos( cam,new_x - cam_width / 2,new_y - cam_height / 2 )
 	
 	if( cur_move > 1.0 )
 	{
 		cur_move = 0.0
 		++cur_target
 	}
-	
-	var new_x = lerp( targets[cur_target - 1].x,targets[cur_target].x,cur_move )
-	var new_y = lerp( targets[cur_target - 1].y,targets[cur_target].y,cur_move )
-	
-	camera_set_view_pos( cam,new_x - cam_width / 2,new_y - cam_height / 2 )
 }
