@@ -303,6 +303,14 @@
             }
         },
         {
+            "Key": "e87d4de3-a139-478d-891a-2f11cbe9682d",
+            "Value": {
+                "id": "44b1eb34-473e-48b9-ac23-c898ec5938a0",
+                "resourcePath": "sprites\\camera_targeter_spr\\camera_targeter_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e8b7114c-85b5-49e4-a9c3-eb0996d2e2f5",
             "Value": {
                 "id": "4106b45b-0e91-472a-aaa9-5b3be7cde8b3",

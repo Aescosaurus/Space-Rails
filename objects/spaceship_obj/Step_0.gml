@@ -43,3 +43,4 @@ if( y + sprite_height / 2 > bot - edge_buffer_y )
 	// y_vel = 0.0
 	y = bot - edge_buffer_y - sprite_height / 2
 }
+

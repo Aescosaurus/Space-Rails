@@ -9,6 +9,11 @@ if( !found_targets )
 	{
 		for( var j = 0; j < array_length_1d( targets ); ++j )
 		{
+			if( targets[i].my_id == targets[j].my_id && targets[i].id != targets[j].id )
+			{
+				show_error( "Duplicate camera targeter ids! - id=" + string( targets[i].my_id ),true )
+			}
+			
 			if( targets[i].my_id < targets[j].my_id )
 			{
 				var temp = targets[i]

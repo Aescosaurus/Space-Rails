@@ -1,5 +1,5 @@
 event_inherited()
-hp = 3
+hp = 2
 
-speed = 0.2
+move_speed = 0.6
 // alarm_set( 0,0.15 * 60.0 )
