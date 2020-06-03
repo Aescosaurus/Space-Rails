@@ -1,4 +1,5 @@
 hp = 1
+move_speed = 0.5
 
 spawned_squad = false
 squad_size = 5

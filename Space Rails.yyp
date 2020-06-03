@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "b5b9c60b-d80b-4b20-8cf2-5db18c0f87aa",
+            "Value": {
+                "id": "ea602826-82b1-45e8-a3c1-c4b26e549872",
+                "resourcePath": "scripts\\particle_spawn_jet\\particle_spawn_jet.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "b7ffa5e5-2fe1-47b3-a2a5-a59f67f17b8e",
             "Value": {
                 "id": "82c09891-9d02-4456-9ab0-b832ee519437",
@@ -314,7 +322,7 @@
             "Key": "e8b7114c-85b5-49e4-a9c3-eb0996d2e2f5",
             "Value": {
                 "id": "4106b45b-0e91-472a-aaa9-5b3be7cde8b3",
-                "resourcePath": "rooms\\main_room\\main_room.yy",
+                "resourcePath": "rooms\\level_1_room\\level_1_room.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -374,7 +382,8 @@
         "8694d298-51f0-460f-a86a-4d75abe8d153",
         "2f61ea25-eb12-441b-9d32-af144182ef41",
         "0184cd32-aa1f-4744-b91d-46ee7910f725",
-        "be8e86c6-10bb-4264-ad0e-96d2963c33bd"
+        "be8e86c6-10bb-4264-ad0e-96d2963c33bd",
+        "b5b9c60b-d80b-4b20-8cf2-5db18c0f87aa"
     ],
     "tutorial": ""
 }

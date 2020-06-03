@@ -44,3 +44,4 @@ if( y + sprite_height / 2 > bot - edge_buffer_y )
 	y = bot - edge_buffer_y - sprite_height / 2
 }
 
+particle_spawn_jet( x,y,5,15.0,image_angle - 90.0,sprite_height / 2 - 1,1.0 )
