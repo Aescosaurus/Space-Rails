@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0d3be4df-79f1-4261-aff4-3dbea85c889f",
+            "Value": {
+                "id": "f0882f62-8b1c-4922-9126-8eb701f65600",
+                "resourcePath": "sprites\\particle_spr\\particle_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0fb36ac3-05fa-41a1-90b8-099fa41f17cf",
             "Value": {
                 "id": "453fb2df-f376-42d3-bc4b-d90d0e2e2b0c",
@@ -175,6 +183,14 @@
             }
         },
         {
+            "Key": "6ad41108-2caf-49b6-bf3a-2910f47df6ca",
+            "Value": {
+                "id": "676dc6f0-ab12-4f83-b3f7-dad66c10b423",
+                "resourcePath": "objects\\particle_obj\\particle_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "760b6c26-4c2e-4773-b58e-50e8f31c11fa",
             "Value": {
                 "id": "aa47b3db-921c-45f0-9856-4d8b7d3ec7ac",
@@ -244,6 +260,14 @@
                 "id": "27813193-8be0-4e1a-9bd8-1748f68958b3",
                 "resourcePath": "objects\\laser_obj\\laser_obj.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "be8e86c6-10bb-4264-ad0e-96d2963c33bd",
+            "Value": {
+                "id": "b9164255-41b9-4a7e-a3e4-c20fb5ce2905",
+                "resourcePath": "scripts\\particle_spawn_explosion\\particle_spawn_explosion.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -341,7 +365,8 @@
         "fcfde516-bdf1-49c4-aa43-88d088bdbad7",
         "8694d298-51f0-460f-a86a-4d75abe8d153",
         "2f61ea25-eb12-441b-9d32-af144182ef41",
-        "0184cd32-aa1f-4744-b91d-46ee7910f725"
+        "0184cd32-aa1f-4744-b91d-46ee7910f725",
+        "be8e86c6-10bb-4264-ad0e-96d2963c33bd"
     ],
     "tutorial": ""
 }
