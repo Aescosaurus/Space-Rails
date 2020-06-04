@@ -279,6 +279,14 @@
             }
         },
         {
+            "Key": "ba09e705-a590-42fa-8bc4-5a6f4e858e41",
+            "Value": {
+                "id": "5bcf36a1-5241-42ac-8c54-c4179b38631d",
+                "resourcePath": "objects\\wall_obj\\wall_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bb2749cb-ce68-47a3-b8f9-fc58cb7742a3",
             "Value": {
                 "id": "27813193-8be0-4e1a-9bd8-1748f68958b3",
@@ -319,10 +327,26 @@
             }
         },
         {
+            "Key": "d57835d5-bbae-4698-b43b-140aaf5cd7b9",
+            "Value": {
+                "id": "6e5d2d16-6e79-4562-ad35-f3b32819e276",
+                "resourcePath": "objects\\obstacle_base_obj\\obstacle_base_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d883305e-be7d-4b9b-84ca-9dccdd623615",
             "Value": {
                 "id": "d3229ee4-00c7-451c-a295-691b374a8ca6",
                 "resourcePath": "sprites\\spaceship_spr\\spaceship_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "da129217-a5a0-42cb-a7ed-2776edd85245",
+            "Value": {
+                "id": "8e970416-3adb-4356-bbc7-8e75f9c3221d",
+                "resourcePath": "sprites\\wall_spr\\wall_spr.yy",
                 "resourceType": "GMSprite"
             }
         },
