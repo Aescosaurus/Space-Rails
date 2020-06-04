@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "549539b5-74e8-4c95-b53a-748a46e9c958",
+            "Value": {
+                "id": "1b0096f0-160b-40e2-b352-53db3c8b37ac",
+                "resourcePath": "objects\\asteroid_obj\\asteroid_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "571e6bdf-2f20-4947-a39a-932dbc18650e",
             "Value": {
                 "id": "ee078e55-0b53-468b-88a5-f3af4b262a3c",
@@ -212,6 +220,14 @@
                 "id": "f7a286b1-6465-4a26-9e1d-8538ac97ba01",
                 "resourcePath": "scripts\\get_len\\get_len.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "90ac8df2-5de7-47d6-9ed0-caf24277f551",
+            "Value": {
+                "id": "19239982-2b23-441f-b41e-418e49a9adfb",
+                "resourcePath": "sprites\\asteroid_spr\\asteroid_spr.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
