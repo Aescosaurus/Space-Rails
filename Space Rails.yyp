@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "499e871b-5d3a-4061-a155-1acfa304f1de",
+            "Value": {
+                "id": "ad29abab-4e4c-4b08-a3a4-b6a98a8bd9a7",
+                "resourcePath": "objects\\enemy_ranger_obj\\enemy_ranger_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "54446d04-ef0d-4595-bd31-dd719937dbda",
             "Value": {
                 "id": "16e95d09-adc1-4073-946a-a33c7d36e1e5",
@@ -219,6 +227,14 @@
             "Value": {
                 "id": "ae2056d8-2496-4af0-85c1-b112aeedf868",
                 "resourcePath": "sprites\\turret_spr\\turret_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "73b56724-d996-481f-8846-d872e01d0f14",
+            "Value": {
+                "id": "5c236514-eefd-44df-acc8-381cf004a26d",
+                "resourcePath": "sprites\\enemy_ranger_spr\\enemy_ranger_spr.yy",
                 "resourceType": "GMSprite"
             }
         },

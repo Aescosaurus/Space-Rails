@@ -1,7 +1,7 @@
 event_inherited()
-hp = 7
+hp = 4
+// squad_size = 3
 
-refire_time = 2.5 * 60.0
-bullet_offset = 15
+refire_time = 1.6 * 60.0
 
 alarm_set( 0,random_range( 0.0,refire_time ) )

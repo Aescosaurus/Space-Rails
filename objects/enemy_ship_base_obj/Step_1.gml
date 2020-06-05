@@ -9,7 +9,9 @@ if( !spawned_squad && on_screen )
 	
 	for( var i = 0; i < squad_size - 1; ++i )
 	{
-		var enemy = instance_copy( false )
+		var enemy = instance_copy( true ) // False syncs enemy shoot timers.
+		enemy.spawned_squad = true
+		enemy.speed = move_speed
 		
 		enemy.x -= cos( degtorad( direction ) ) * ( ( i + 1 ) * x_spacing )
 		enemy.y += sin( degtorad( direction ) ) * ( ( i + 1 ) * y_spacing )

@@ -11,3 +11,5 @@ edge_buffer_x = 5
 edge_buffer_y = 5
 
 cam = view_camera[0]
+
+randomize()

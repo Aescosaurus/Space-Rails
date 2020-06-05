@@ -1,6 +1,6 @@
 --hp
 
-particle_spawn_explosion( x,y,3 )
+particle_spawn_explosion( other.x,other.y,3 )
 
 instance_destroy( other )
 
