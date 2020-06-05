@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0c3e37df-46fe-4cd0-af8f-11565e0d06a8",
+            "Value": {
+                "id": "53dde1dc-b867-4dda-88bd-6575a3bea61e",
+                "resourcePath": "objects\\turret_obj\\turret_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0d3be4df-79f1-4261-aff4-3dbea85c889f",
             "Value": {
                 "id": "f0882f62-8b1c-4922-9126-8eb701f65600",
@@ -100,6 +108,14 @@
                 "id": "66ac8320-2656-4955-9f0a-70252894257b",
                 "resourcePath": "views\\24da88f6-d550-4046-ad5b-e746e963aab6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2b5ff5cf-c0cc-4202-bd77-3afdd115acaf",
+            "Value": {
+                "id": "a6ddf0da-6275-48ad-8fe6-db0156ef837c",
+                "resourcePath": "objects\\bullet_obj\\bullet_obj.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -196,6 +212,14 @@
                 "id": "676dc6f0-ab12-4f83-b3f7-dad66c10b423",
                 "resourcePath": "objects\\particle_obj\\particle_obj.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6b183aee-6182-4a07-9402-b3f401b66c79",
+            "Value": {
+                "id": "ae2056d8-2496-4af0-85c1-b112aeedf868",
+                "resourcePath": "sprites\\turret_spr\\turret_spr.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -343,6 +367,14 @@
             }
         },
         {
+            "Key": "d9f9dab2-ac9b-4123-84ff-24d0b1eb3204",
+            "Value": {
+                "id": "26415c01-c79b-40e2-9dde-8b1242d15b55",
+                "resourcePath": "sprites\\bullet_spr\\bullet_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "da129217-a5a0-42cb-a7ed-2776edd85245",
             "Value": {
                 "id": "8e970416-3adb-4356-bbc7-8e75f9c3221d",
@@ -364,6 +396,14 @@
                 "id": "4106b45b-0e91-472a-aaa9-5b3be7cde8b3",
                 "resourcePath": "rooms\\level_1_room\\level_1_room.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "ec2151ba-bf6d-4f2f-bb43-3be85a568dcb",
+            "Value": {
+                "id": "2a3adb6f-11bc-47c2-a52e-6faff6863e88",
+                "resourcePath": "objects\\enemy_ship_base_obj\\enemy_ship_base_obj.yy",
+                "resourceType": "GMObject"
             }
         },
         {

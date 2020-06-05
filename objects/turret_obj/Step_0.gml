@@ -1,0 +1,1 @@
+image_angle = point_direction( x,y,spaceship_obj.x,spaceship_obj.y ) - 90.0
