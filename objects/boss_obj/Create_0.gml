@@ -1,5 +1,5 @@
 event_inherited()
-hp = 150
+hp = 250
 
 phase = 0
 phase_0_dur = 3.5 * 60.0
