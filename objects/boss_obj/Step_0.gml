@@ -13,7 +13,7 @@ if( cam_can_see() )
 	}
 	else if( phase == 1 )
 	{
-		if( lasers[0] == noone )
+		if( !instance_exists( lasers[0] ) )
 		{
 			for( var i = 0; i < 4; ++i )
 			{
@@ -37,6 +37,10 @@ if( cam_can_see() )
 	}
 	else if( phase == 3 )
 	{
-		
+		// Handled in alarm 3.
+	}
+	else if( phase == 4 )
+	{
+		image_angle += rot_speed * ( cur_rotation % 2 == 0 ? -1.0 : 1.0 ) * get_delta_time()
 	}
 }
