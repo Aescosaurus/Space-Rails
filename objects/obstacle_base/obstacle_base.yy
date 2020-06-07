@@ -1,38 +1,38 @@
 {
-    "id": "560c26a5-0577-49ee-b30a-3030ff56f30b",
+    "id": "d57835d5-bbae-4698-b43b-140aaf5cd7b9",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "enemy_bullet_base_obj",
+    "name": "obstacle_base",
     "eventList": [
         {
-            "id": "ea329489-f030-4615-9b34-15916ac2758d",
+            "id": "a8cdd4d3-bdbc-4afe-b4c5-c3ae762bdae2",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "d57835d5-bbae-4698-b43b-140aaf5cd7b9"
+        },
+        {
+            "id": "34fd3c4e-0509-405e-a46f-7625f637fa59",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "65dc73d5-7687-49fe-a2b0-2723ba9a79bc",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "560c26a5-0577-49ee-b30a-3030ff56f30b"
+            "m_owner": "d57835d5-bbae-4698-b43b-140aaf5cd7b9"
         },
         {
-            "id": "9e569b94-edcf-4de3-9758-269dcb0bc023",
+            "id": "c081cba3-02f6-4a4c-a07d-ea71cd5e09b9",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "d57835d5-bbae-4698-b43b-140aaf5cd7b9",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "560c26a5-0577-49ee-b30a-3030ff56f30b"
-        },
-        {
-            "id": "a09e79c7-c051-4ed7-82b9-dc828e5ad869",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "3043dd49-4f88-4b93-8888-be6ac8b62672",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "560c26a5-0577-49ee-b30a-3030ff56f30b"
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 3,
+            "m_owner": "d57835d5-bbae-4698-b43b-140aaf5cd7b9"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

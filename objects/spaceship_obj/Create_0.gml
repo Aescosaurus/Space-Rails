@@ -13,5 +13,3 @@ edge_buffer_y = 5
 cam = view_camera[0]
 
 randomize()
-
-window_set_fullscreen( true )

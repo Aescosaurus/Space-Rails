@@ -2,7 +2,7 @@
     "id": "65dc73d5-7687-49fe-a2b0-2723ba9a79bc",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "player_bullet_base_obj",
+    "name": "player_bullet_base",
     "eventList": [
         {
             "id": "da97e42d-cc41-4c7d-9f40-c4dfeec41195",

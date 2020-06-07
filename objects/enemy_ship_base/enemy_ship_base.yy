@@ -1,38 +1,28 @@
 {
-    "id": "d57835d5-bbae-4698-b43b-140aaf5cd7b9",
+    "id": "ec2151ba-bf6d-4f2f-bb43-3be85a568dcb",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obstacle_base_obj",
+    "name": "enemy_ship_base",
     "eventList": [
         {
-            "id": "a8cdd4d3-bdbc-4afe-b4c5-c3ae762bdae2",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "d57835d5-bbae-4698-b43b-140aaf5cd7b9"
-        },
-        {
-            "id": "34fd3c4e-0509-405e-a46f-7625f637fa59",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "65dc73d5-7687-49fe-a2b0-2723ba9a79bc",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "d57835d5-bbae-4698-b43b-140aaf5cd7b9"
-        },
-        {
-            "id": "c081cba3-02f6-4a4c-a07d-ea71cd5e09b9",
+            "id": "8902afe3-5b22-40f8-84ca-d0ce6e87d8e2",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 1,
             "eventtype": 3,
-            "m_owner": "d57835d5-bbae-4698-b43b-140aaf5cd7b9"
+            "m_owner": "ec2151ba-bf6d-4f2f-bb43-3be85a568dcb"
+        },
+        {
+            "id": "90e92aa7-8be7-49a9-b99c-76fbb1bb1b6b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "ec2151ba-bf6d-4f2f-bb43-3be85a568dcb"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
