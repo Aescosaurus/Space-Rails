@@ -1,5 +1,11 @@
 if( cam_can_see() )
 {
+	if( phase % 2 == 0 )
+	{
+		move_pos += get_delta_time()
+		x = x_start + sin( move_pos ) * x_move_speed
+	}
+	
 	if( phase == 0 )
 	{
 		for( var i = 0; i < 4; ++i )

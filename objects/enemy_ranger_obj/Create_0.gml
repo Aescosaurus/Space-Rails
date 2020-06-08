@@ -1,5 +1,5 @@
 event_inherited()
-hp = 4
+hp = 3
 squad_size = 3
 
 refire_time = 1.6 * 60.0

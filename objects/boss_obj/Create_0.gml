@@ -19,6 +19,10 @@ shot_speed = 0.85
 shot_offset = 37
 
 cur_rotation = 0
-rotation_count = 3
+rotation_count = 4
+
+move_pos = 0.0
+x_start = x
+x_move_speed = 30.0
 
 alarm_set( 0,phase_0_dur )
