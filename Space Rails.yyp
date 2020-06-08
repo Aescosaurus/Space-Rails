@@ -39,10 +39,34 @@
             }
         },
         {
+            "Key": "036f53cd-f979-4a0a-991b-08e59a3dc8cc",
+            "Value": {
+                "id": "2417de9e-a8d3-469f-b69f-0c184dd51bab",
+                "resourcePath": "sprites\\sky1_spr\\sky1_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "038e7f84-10a5-4a30-a43b-5559b70129dc",
             "Value": {
                 "id": "1323449e-58bb-4b07-865e-f00c63940baa",
                 "resourcePath": "objects\\camera_follow_obj\\camera_follow_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "08cddea4-5c4e-46e8-891d-ce6a174386a7",
+            "Value": {
+                "id": "1fc33a15-0ce2-44ff-a8a5-d0c0994fc7f1",
+                "resourcePath": "rooms\\level_1_cutscene\\level_1_cutscene.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "09d6f62c-be13-4256-a7cd-b974df319549",
+            "Value": {
+                "id": "f58354d5-8e69-43f6-a7b2-73b56bb77606",
+                "resourcePath": "objects\\ground_obj\\ground_obj.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -87,6 +111,14 @@
             }
         },
         {
+            "Key": "172fec34-1d7d-4217-bcee-8f8a4bec5022",
+            "Value": {
+                "id": "4e3c84d9-db6a-49d7-8f6c-8c5e70a72228",
+                "resourcePath": "sprites\\sky3_spr\\sky3_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "180a3044-8229-48bc-8757-89d1d9059b6f",
             "Value": {
                 "id": "43723af7-991e-44d3-8c4b-be8eb9ba4a90",
@@ -108,6 +140,14 @@
                 "id": "ac75b48a-0a03-4dff-b02e-4e1a0780822b",
                 "resourcePath": "scripts\\bullet_single\\bullet_single.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1e65bf65-977b-48ff-8fc3-6ad4fa8176a9",
+            "Value": {
+                "id": "dac293ab-c19a-45fd-9005-7badaa12f2ce",
+                "resourcePath": "objects\\sky2_obj\\sky2_obj.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -199,6 +239,14 @@
             }
         },
         {
+            "Key": "3795b0eb-2bbc-4c98-a440-3f2796faa853",
+            "Value": {
+                "id": "20cf61ee-2ffc-4bba-9ce4-57f83b9de534",
+                "resourcePath": "sprites\\ground_spr\\ground_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3a80b975-eb30-44cf-8b86-3fc49b25aef0",
             "Value": {
                 "id": "5438cd7e-0701-475e-a164-fb25a529f7ce",
@@ -239,6 +287,14 @@
             }
         },
         {
+            "Key": "4902101a-041b-4f51-bb64-6c4e950a8d4e",
+            "Value": {
+                "id": "8f470f98-6658-43e8-8067-1def90262d07",
+                "resourcePath": "objects\\sky1_obj\\sky1_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "499e871b-5d3a-4061-a155-1acfa304f1de",
             "Value": {
                 "id": "ad29abab-4e4c-4b08-a3a4-b6a98a8bd9a7",
@@ -263,6 +319,14 @@
             }
         },
         {
+            "Key": "4edb03a8-2bcf-4225-b180-5cf0d60f098e",
+            "Value": {
+                "id": "9225dd40-a3ab-4f7e-8342-da404ac57a33",
+                "resourcePath": "sprites\\sky5_spr\\sky5_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "54446d04-ef0d-4595-bd31-dd719937dbda",
             "Value": {
                 "id": "16e95d09-adc1-4073-946a-a33c7d36e1e5",
@@ -276,6 +340,14 @@
                 "id": "1b0096f0-160b-40e2-b352-53db3c8b37ac",
                 "resourcePath": "objects\\asteroid_obj\\asteroid_obj.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "54cb5dad-3a51-4214-a56d-2cb279ad26b3",
+            "Value": {
+                "id": "1f60fd81-b8b8-4d5b-a1d7-3420c0881768",
+                "resourcePath": "views\\54cb5dad-3a51-4214-a56d-2cb279ad26b3.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -359,6 +431,14 @@
             }
         },
         {
+            "Key": "77124193-ee35-4ef3-9271-9d7fcf78f418",
+            "Value": {
+                "id": "7eed5fe8-6312-4d06-88f5-2980ae928acd",
+                "resourcePath": "sprites\\sky6_spr\\sky6_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7740831f-5727-466b-9550-ec335bb73ad5",
             "Value": {
                 "id": "8d3325dd-3b88-47c1-9e2c-b63294fa536c",
@@ -375,11 +455,43 @@
             }
         },
         {
+            "Key": "87c16e9b-c1db-41c4-b9a1-ca0f60096fc3",
+            "Value": {
+                "id": "a90d4f21-7641-49b7-bd28-64300b9b9b63",
+                "resourcePath": "sprites\\station_spr\\station_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "87ddb521-cfe0-4d1c-ba1f-577edf9f3227",
+            "Value": {
+                "id": "222d50b5-e3e5-473b-b49a-635035d4b9df",
+                "resourcePath": "objects\\sky5_obj\\sky5_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8a7a669d-c04a-42c6-91b9-046af2741bae",
+            "Value": {
+                "id": "5a833b98-ec91-4dc4-a694-d38ec2d1595a",
+                "resourcePath": "sprites\\sky2_spr\\sky2_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "90ac8df2-5de7-47d6-9ed0-caf24277f551",
             "Value": {
                 "id": "19239982-2b23-441f-b41e-418e49a9adfb",
                 "resourcePath": "sprites\\asteroid_spr\\asteroid_spr.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "975beb3d-7a33-4e96-a67f-75d563033b52",
+            "Value": {
+                "id": "11efbe90-748b-4ac9-b72e-ea5833787e40",
+                "resourcePath": "objects\\sky4_obj\\sky4_obj.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -411,6 +523,14 @@
             "Value": {
                 "id": "40725d12-6097-4a77-b6f2-9f68c5e98e5f",
                 "resourcePath": "views\\a938fa98-b8e8-4c9a-8956-73d3c47ff438.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "aadc9789-c2d1-4c6d-b9fe-2d77517a2fcb",
+            "Value": {
+                "id": "9cce4839-9aa4-4ee0-83db-35b398be8145",
+                "resourcePath": "views\\aadc9789-c2d1-4c6d-b9fe-2d77517a2fcb.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -511,6 +631,14 @@
             }
         },
         {
+            "Key": "c0de0d09-53cb-4819-b9ea-cd5366f94587",
+            "Value": {
+                "id": "52f0c914-bb4d-4147-a0e7-099c4bf12ae9",
+                "resourcePath": "sprites\\sky4_spr\\sky4_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c7a3644d-ca4a-41f0-8837-d8027e49c3c7",
             "Value": {
                 "id": "ad1c2b9b-af82-4ad8-9145-9f490e19495a",
@@ -591,6 +719,14 @@
             }
         },
         {
+            "Key": "dd8cc9d2-487f-4253-9309-c32eae2c71c9",
+            "Value": {
+                "id": "62481005-e9fd-410f-a73b-a5b3a5ac8a91",
+                "resourcePath": "objects\\sky6_obj\\sky6_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "e7b65429-87e0-4a4b-b41d-e940547fcddf",
             "Value": {
                 "id": "22f63e52-0cc7-4c23-bf41-aa7f6762248d",
@@ -631,6 +767,22 @@
             }
         },
         {
+            "Key": "f07d7e1b-468f-4121-8ddb-c5cad676fbeb",
+            "Value": {
+                "id": "cafe3051-c6a0-4006-8d23-41a1294e991c",
+                "resourcePath": "objects\\station_obj\\station_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f122af13-09a1-474c-8f31-2bc95cec36e6",
+            "Value": {
+                "id": "6ffb6372-eda4-4b85-9c58-a163a6ae0bdc",
+                "resourcePath": "objects\\sky3_obj\\sky3_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f406f18b-5ee9-427a-8482-4926809c5aba",
             "Value": {
                 "id": "306193af-3166-41a8-846c-9bc351c0f946",
@@ -644,6 +796,14 @@
                 "id": "c222bb33-298e-424f-975d-5ca2abbbf06f",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f70e0f78-8546-47c6-ad2c-e66799a0d309",
+            "Value": {
+                "id": "0f6cbf71-43f6-4723-a087-8d993c37e772",
+                "resourcePath": "views\\f70e0f78-8546-47c6-ad2c-e66799a0d309.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
