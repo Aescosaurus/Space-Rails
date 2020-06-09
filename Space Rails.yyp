@@ -394,7 +394,7 @@
             "Key": "5aac34d3-2008-422c-ac22-329518f81b4b",
             "Value": {
                 "id": "8424a786-4a32-45bf-80eb-f50ed5d8d045",
-                "resourcePath": "scripts\\bullet_unique\\bullet_unique.yy",
+                "resourcePath": "scripts\\bullet_spawn_at\\bullet_spawn_at.yy",
                 "resourceType": "GMScript"
             }
         },
