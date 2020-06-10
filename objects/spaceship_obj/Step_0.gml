@@ -25,22 +25,18 @@ var bot = top + camera_get_view_height( cam )
 
 if( x - sprite_width / 2 < left + edge_buffer_x )
 {
-	// x_vel = 0.0
 	x = left + edge_buffer_x + sprite_width / 2
 }
 if( x + sprite_width / 2 > right - edge_buffer_x )
 {
-	// x_vel = 0.0
 	x = right - edge_buffer_x - sprite_width / 2
 }
 if( y - sprite_height / 2 < top + edge_buffer_y )
 {
-	// y_vel = 0.0
 	y = top + edge_buffer_y + sprite_height / 2
 }
 if( y + sprite_height / 2 > bot - edge_buffer_y )
 {
-	// y_vel = 0.0
 	y = bot - edge_buffer_y - sprite_height / 2
 }
 

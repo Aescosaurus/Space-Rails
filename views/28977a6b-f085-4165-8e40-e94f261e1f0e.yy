@@ -9,7 +9,8 @@
         "ec2151ba-bf6d-4f2f-bb43-3be85a568dcb",
         "d57835d5-bbae-4698-b43b-140aaf5cd7b9",
         "560c26a5-0577-49ee-b30a-3030ff56f30b",
-        "37273b57-3beb-4d56-bd53-a557965a1197"
+        "37273b57-3beb-4d56-bd53-a557965a1197",
+        "cbb66ddf-3a81-481f-bf6e-c5c29a9d0de5"
     ],
     "filterType": "GMObject",
     "folderName": "base",

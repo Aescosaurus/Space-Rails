@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "20853865-024a-481e-8fbb-8d6a348e5443",
+            "Value": {
+                "id": "f4ee1f2a-9380-4466-939c-9bea9181eca6",
+                "resourcePath": "objects\\double_laser_obj\\double_laser_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "20e782c1-cd25-494c-a552-ef753198f100",
             "Value": {
                 "id": "d5add141-7d10-450d-ab29-bd465a7868ce",
@@ -399,6 +407,14 @@
             }
         },
         {
+            "Key": "5b26fc32-c3d0-4796-984e-e224fe06ded2",
+            "Value": {
+                "id": "553d0c62-a630-4718-87c9-23b0b917bfee",
+                "resourcePath": "views\\5b26fc32-c3d0-4796-984e-e224fe06ded2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "5c2002ed-ba0f-4c8d-8cab-990fa23de9e0",
             "Value": {
                 "id": "06ceee42-2939-4710-83e2-9897166435ca",
@@ -436,6 +452,14 @@
                 "id": "ae2056d8-2496-4af0-85c1-b112aeedf868",
                 "resourcePath": "sprites\\turret_spr\\turret_spr.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6e0fa5fe-54d0-420d-b3b3-3911a90a6a2a",
+            "Value": {
+                "id": "00e32787-eb45-4858-8096-1299ed623189",
+                "resourcePath": "objects\\basic_laser_obj\\basic_laser_obj.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -715,6 +739,14 @@
             "Value": {
                 "id": "e6b357f6-ca8c-4bd6-aa80-2d2d713dd3a7",
                 "resourcePath": "objects\\boss_obj\\boss_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cbb66ddf-3a81-481f-bf6e-c5c29a9d0de5",
+            "Value": {
+                "id": "276911bd-70e9-402d-aa7a-ab0e7c9c4106",
+                "resourcePath": "objects\\player_weapon_base\\player_weapon_base.yy",
                 "resourceType": "GMObject"
             }
         },
