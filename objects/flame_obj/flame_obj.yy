@@ -1,18 +1,18 @@
 {
-    "id": "bb2749cb-ce68-47a3-b8f9-fc58cb7742a3",
+    "id": "572cbc5f-98e9-4fcc-bd93-993cdb56de5c",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "laser_obj",
+    "name": "flame_obj",
     "eventList": [
         {
-            "id": "ac9ac7a8-e39b-43a0-b562-cc0b9da48950",
+            "id": "ad2d5ec5-1673-4933-83d9-47d50130c80c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "bb2749cb-ce68-47a3-b8f9-fc58cb7742a3"
+            "m_owner": "572cbc5f-98e9-4fcc-bd93-993cdb56de5c"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "fb6b35e8-2ca0-4b5c-b725-44429bfae2e5",
+    "spriteId": "0d3be4df-79f1-4261-aff4-3dbea85c889f",
     "visible": true
 }

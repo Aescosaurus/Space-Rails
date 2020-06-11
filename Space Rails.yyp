@@ -399,6 +399,14 @@
             }
         },
         {
+            "Key": "572cbc5f-98e9-4fcc-bd93-993cdb56de5c",
+            "Value": {
+                "id": "c68047b6-7274-45e0-b04b-e779f802a249",
+                "resourcePath": "objects\\flame_obj\\flame_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5aac34d3-2008-422c-ac22-329518f81b4b",
             "Value": {
                 "id": "8424a786-4a32-45bf-80eb-f50ed5d8d045",
@@ -604,6 +612,14 @@
                 "id": "40725d12-6097-4a77-b6f2-9f68c5e98e5f",
                 "resourcePath": "views\\a938fa98-b8e8-4c9a-8956-73d3c47ff438.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "aa7a2ada-be92-4a0a-adaa-00541ecb0e52",
+            "Value": {
+                "id": "b979cd5a-7d2d-41f2-8959-768c2d67df79",
+                "resourcePath": "objects\\flamethrower_obj\\flamethrower_obj.yy",
+                "resourceType": "GMObject"
             }
         },
         {

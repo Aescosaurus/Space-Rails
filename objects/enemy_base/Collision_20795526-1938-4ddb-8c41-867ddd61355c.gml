@@ -1,8 +1,8 @@
 hp -= other.damage
 
-particle_spawn_explosion( other.x,other.y,3 )
+particle_spawn_explosion( other.x,other.y,other.damage * 3 )
 
-instance_destroy( other )
+// instance_destroy( other )
 
 if( hp < 1 )
 {

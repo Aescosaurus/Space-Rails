@@ -13,6 +13,4 @@ bullet.speed = spd
 bullet.x += calc_x_ang( dir ) * -offset_x + calc_x_ang( dir - 90.0 ) * offset_y
 bullet.y += calc_y_ang( dir ) * -offset_x + calc_y_ang( dir - 90.0 ) * offset_y
 
-particle_spawn_explosion( bullet.x,bullet.y,3 )
-
 return( bullet )
