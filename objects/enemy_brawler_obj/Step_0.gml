@@ -8,13 +8,13 @@ if( spawned_squad && cam_can_see() )
 	
 	if( target_x < 0 || target_y < 0 )
 	{
-		target_x = rand_scr_x( target_buffer )
-		target_y = rand_scr_y( target_buffer )
+		target_x = rand_scr_x( target_buffer ) - spaceship_obj.x
+		target_y = rand_scr_y( target_buffer ) - spaceship_obj.y
 	}
 	else if( !stopped )
 	{
-		x_vel = target_x - x
-		y_vel = target_y - y
+		x_vel = ( target_x + spaceship_obj.x ) - x
+		y_vel = ( target_y + spaceship_obj.y ) - y
 		var norm = normalize( x_vel,y_vel )
 		x_vel += norm[0]
 		y_vel += norm[1]
