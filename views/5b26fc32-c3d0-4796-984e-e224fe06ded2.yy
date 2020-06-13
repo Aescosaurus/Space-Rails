@@ -4,10 +4,9 @@
     "mvc": "1.1",
     "name": "5b26fc32-c3d0-4796-984e-e224fe06ded2",
     "children": [
-        "6e0fa5fe-54d0-420d-b3b3-3911a90a6a2a",
-        "20853865-024a-481e-8fbb-8d6a348e5443",
-        "aa7a2ada-be92-4a0a-adaa-00541ecb0e52",
-        "6ed9f173-db23-4ff5-8367-a8301e8846bf"
+        "3405de54-a012-4523-b96c-fe97f0148897",
+        "3248631a-43ff-4c80-a344-138eb942a4a5",
+        "ffba714c-e484-40e3-8980-7403cfc5a7db"
     ],
     "filterType": "GMObject",
     "folderName": "weapons",

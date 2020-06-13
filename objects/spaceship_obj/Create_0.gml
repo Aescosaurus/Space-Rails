@@ -14,5 +14,5 @@ cam = view_camera[0]
 
 randomize()
 
-var wep1 = instance_create_layer( x,y,"instances",flamethrower_obj )
-var wep2 = instance_create_layer( x,y,"instances",seeker_rockets_obj )
+wep1 = instance_create_layer( x,y,"instances",lightning_rod_obj )
+wep2 = instance_create_layer( x,y,"instances",seeker_rockets_obj )
