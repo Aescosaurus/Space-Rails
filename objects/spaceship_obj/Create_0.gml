@@ -15,4 +15,4 @@ cam = view_camera[0]
 randomize()
 
 wep1 = instance_create_layer( x,y,"instances",lightning_rod_obj )
-wep2 = instance_create_layer( x,y,"instances",seeker_rockets_obj )
+wep2 = instance_create_layer( x,y,"instances",basic_beam_obj )

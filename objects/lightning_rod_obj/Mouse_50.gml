@@ -18,10 +18,7 @@ if( can_fire )
 		{
 			lightning[j] = instance_create_layer( x,y,"instances",lightning_obj )
 			lightning[j].image_angle = target_ang
-			if( j < range - 1 )
-			{
-				lightning[j].image_angle += random_range( -lightning_dev,lightning_dev )
-			}
+			lightning[j].image_angle += random_range( -lightning_dev,lightning_dev )
 			
 			if( j > 0 )
 			{

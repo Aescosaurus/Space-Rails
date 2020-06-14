@@ -431,6 +431,14 @@
             }
         },
         {
+            "Key": "57293210-5539-43ec-b116-9b8a28b3e0b2",
+            "Value": {
+                "id": "3f6a1cdb-7794-4ff3-85df-de1de79ca5c8",
+                "resourcePath": "objects\\laser_beam_obj\\laser_beam_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "572cbc5f-98e9-4fcc-bd93-993cdb56de5c",
             "Value": {
                 "id": "c68047b6-7274-45e0-b04b-e779f802a249",
@@ -787,6 +795,14 @@
             "Value": {
                 "id": "27813193-8be0-4e1a-9bd8-1748f68958b3",
                 "resourcePath": "objects\\laser_obj\\laser_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "be26e54b-159a-419e-a47f-c742459996eb",
+            "Value": {
+                "id": "d67dfda3-5550-4171-b548-8a0902b2957f",
+                "resourcePath": "objects\\basic_beam_obj\\basic_beam_obj.yy",
                 "resourceType": "GMObject"
             }
         },
