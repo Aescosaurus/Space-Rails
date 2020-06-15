@@ -16,3 +16,4 @@ randomize()
 
 wep1 = instance_create_layer( x,y,"instances",lightning_rod_obj )
 wep2 = instance_create_layer( x,y,"instances",basic_beam_obj )
+ult = instance_create_layer( x,y,"instances",bullet_bomb_obj )

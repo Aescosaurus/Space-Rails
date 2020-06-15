@@ -1,0 +1,1 @@
+if( random_range( 0,100 ) < 30 ) particle_spawn_explosion( x,y,3 )
