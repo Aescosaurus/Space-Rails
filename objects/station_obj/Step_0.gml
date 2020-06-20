@@ -19,6 +19,8 @@ if( y < target_y - grav * dt )
 else
 {
 	y = target_y
+	
+	if( alarm[0] < 0.0 ) alarm_set( 0,time_explode )
 }
 
 particle_spawn_jet( x + 35,y + 13,13,15,90.0,0.0,2.3 )

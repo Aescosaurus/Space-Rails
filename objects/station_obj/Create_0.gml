@@ -5,3 +5,6 @@ grav_accel = 5.0
 grav = 250.0
 
 explode_chance = 20
+
+time_explode = 0.8 * 60.0
+explode_count = 20
