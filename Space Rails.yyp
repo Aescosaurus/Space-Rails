@@ -311,6 +311,14 @@
             }
         },
         {
+            "Key": "391b798b-c141-4143-a7f2-b7c770323f8a",
+            "Value": {
+                "id": "3779eaa0-fc2c-4eb8-8284-f8035c6114b6",
+                "resourcePath": "scripts\\particle_jet_at\\particle_jet_at.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "3a80b975-eb30-44cf-8b86-3fc49b25aef0",
             "Value": {
                 "id": "5438cd7e-0701-475e-a164-fb25a529f7ce",
@@ -331,6 +339,14 @@
             "Value": {
                 "id": "38c54892-c323-4ff5-8fb1-8296ea7f9433",
                 "resourcePath": "objects\\enemy_laser_obj\\enemy_laser_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "46252547-3fed-4cd6-8f82-220a202545ec",
+            "Value": {
+                "id": "f5d219c3-0f6d-4e29-8a0c-674c633e2d79",
+                "resourcePath": "objects\\enemy_lancer_obj\\enemy_lancer_obj.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -683,6 +699,14 @@
             "Value": {
                 "id": "4a7f6551-747d-4e13-b344-2ff6c0e96d00",
                 "resourcePath": "sprites\\enemy_spr\\enemy_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9e1e0c11-a219-4fcb-8008-9317ff0df40d",
+            "Value": {
+                "id": "04393888-670d-4dc7-a7f7-de2d893c64f1",
+                "resourcePath": "sprites\\enemy_lancer_spr\\enemy_lancer_spr.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1153,6 +1177,7 @@
         "b6a810f1-ff0c-462a-8eb4-226a1383ed41",
         "be8e86c6-10bb-4264-ad0e-96d2963c33bd",
         "b5b9c60b-d80b-4b20-8cf2-5db18c0f87aa",
+        "391b798b-c141-4143-a7f2-b7c770323f8a",
         "fcfde516-bdf1-49c4-aa43-88d088bdbad7",
         "8694d298-51f0-460f-a86a-4d75abe8d153",
         "2f61ea25-eb12-441b-9d32-af144182ef41",

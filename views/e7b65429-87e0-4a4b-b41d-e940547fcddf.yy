@@ -5,7 +5,8 @@
     "name": "e7b65429-87e0-4a4b-b41d-e940547fcddf",
     "children": [
         "be8e86c6-10bb-4264-ad0e-96d2963c33bd",
-        "b5b9c60b-d80b-4b20-8cf2-5db18c0f87aa"
+        "b5b9c60b-d80b-4b20-8cf2-5db18c0f87aa",
+        "391b798b-c141-4143-a7f2-b7c770323f8a"
     ],
     "filterType": "GMScript",
     "folderName": "particle",
