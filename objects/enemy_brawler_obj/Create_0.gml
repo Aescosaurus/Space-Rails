@@ -7,9 +7,9 @@ target_buffer = sprite_width * 3
 target_x = -1
 target_y = -1
 
-fly_speed = 0.2
+fly_speed = 23.2
 slow_stop_dist = 20.0
-vel_decay = 0.98
+// vel_decay = 0.98
 stopped = false
 x_vel = 0.0
 y_vel = 0.0

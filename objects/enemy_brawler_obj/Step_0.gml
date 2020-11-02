@@ -16,13 +16,15 @@ if( spawned_squad && cam_can_see() )
 		x_vel = ( target_x + spaceship_obj.x ) - x
 		y_vel = ( target_y + spaceship_obj.y ) - y
 		var norm = normalize( x_vel,y_vel )
-		x_vel += norm[0]
-		y_vel += norm[1]
+		x_vel = norm[0]
+		y_vel = norm[1]
 		
 		if( get_len_sq( target_x - x,target_y - y ) < sqr( slow_stop_dist ) )
 		{
-			stopped = true
-			fly_speed *= vel_decay
+			// stopped = true
+			// fly_speed *= vel_decay
+			// target_x = -1
+			// target_y = -1
 		}
 	}
 }

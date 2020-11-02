@@ -1,4 +1,4 @@
 event_inherited()
-damage = 999
+damage = 1
 
 speed = 3.5
