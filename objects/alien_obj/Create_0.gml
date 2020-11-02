@@ -1,3 +1,3 @@
 event_inherited()
-hp = 2
+hp = 1
 move_speed = 0.6

@@ -1,5 +1,5 @@
 event_inherited()
-hp = 7
+hp = 2
 
 refire_time = 2.5 * 60.0
 bullet_offset = 15

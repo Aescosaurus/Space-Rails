@@ -6,4 +6,6 @@ for( var i = 0; i < final_explode_count; ++i )
 		random_range( 9,15 ) )
 }
 
-instance_destroy()
+visible = false
+alarm_set( 0,9999 * 60 )
+zoom_time = true
