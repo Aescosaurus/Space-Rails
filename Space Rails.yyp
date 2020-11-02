@@ -863,6 +863,14 @@
             }
         },
         {
+            "Key": "b9af65c3-1007-400f-bc8e-345fd6535f60",
+            "Value": {
+                "id": "1c6ec0ee-7934-4e95-be2e-9ffdc166e319",
+                "resourcePath": "scripts\\lock_to_screen\\lock_to_screen.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "ba09e705-a590-42fa-8bc4-5a6f4e858e41",
             "Value": {
                 "id": "5bcf36a1-5241-42ac-8c54-c4179b38631d",
@@ -1191,6 +1199,7 @@
         "490beb7b-f6d8-487c-937b-c959d25c1996",
         "80affd16-6254-4768-8aee-bc897cb11bd0",
         "b6a810f1-ff0c-462a-8eb4-226a1383ed41",
+        "b9af65c3-1007-400f-bc8e-345fd6535f60",
         "be8e86c6-10bb-4264-ad0e-96d2963c33bd",
         "b5b9c60b-d80b-4b20-8cf2-5db18c0f87aa",
         "391b798b-c141-4143-a7f2-b7c770323f8a",

@@ -6,6 +6,8 @@ if( spawned_squad && cam_can_see() )
 	x += x_vel * fly_speed * dt
 	y += y_vel * fly_speed * dt
 	
+	lock_to_screen( sprite_width * 1.2 )
+	
 	if( target_x < 0 || target_y < 0 )
 	{
 		target_x = rand_scr_x( target_buffer ) - spaceship_obj.x
